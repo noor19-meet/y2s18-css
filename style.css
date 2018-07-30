@@ -6,3 +6,12 @@ p{
 	background-color: red;
 	text-align: center;
 }
+a{
+	background-color: red;
+}
+
+.vegetarian{color: green;}
+#tasty{color: yellow;}
+.content{}
+.sidebar{background-color: white;}
+.container{}
